@@ -1,4 +1,4 @@
-[![](docs/og.svg)](https://unicon.rocks)
+[![](og.svg)](https://unicon.rocks)
 
 ![GitHub License](https://img.shields.io/github/license/nhedger/unicon)
 ![GitHub Tag](https://img.shields.io/github/v/tag/nhedger/unicon?label=version)
